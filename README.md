@@ -1,4 +1,5 @@
 ## Summary
+
 The project addresses a critical gap in personal finance management, where traditional tools often fail to keep up with the rapidly changing and complex demands of modern financial planning. This challenge results in delayed, inaccurate, or generalized advice, which can hinder individuals from making optimal financial decisions. Leveraging advancements in Artificial Intelligence (AI), particularly Large Language Models (LLMs), this project aims to develop an AI-driven financial advisory tool capable of delivering real-time, personalized financial insights that cater to individual needs in areas like budgeting, investment analysis, and risk assessment.
 
 ### Project Goals and Background
